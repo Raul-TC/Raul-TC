@@ -1,11 +1,10 @@
 ## 👋 Hi, I’m Raúl
 
 - Im From Monterrey, México 🌄
-- I’m interested in FrontEnd Developer 👀
-- I'm practicing React 🌱
+- I’m interested in FrontEnd Developer  and QA Testing 👀
 - How to reach me:
-
   - email: raul.tc98@hotmail.com
+  - 
 <div id="user-content-toc">
   <ul align="center">
     <summary><h2 style="display: inline-block">Technologies That I Know👨🏻‍💻</h2></summary>
